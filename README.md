@@ -11,3 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: To be updated
 -->
+
+<!---![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&hide=contribs,prs)
+
+![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&show_icons=true)-->
+
+   ![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&hide=contribs,prs&theme=gruvbox)
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chitransh-atre&repo=github-readme-stats)](https://github.com/chitransh-atre/github-readme-stats)-->
