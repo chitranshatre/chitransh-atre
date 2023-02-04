@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 
    ![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&hide=contribs,prs&theme=gruvbox)
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chitransh-atre&repo=github-readme-stats)](https://github.com/chitransh-atre/github-readme-stats)-->
+
+
+
+
+Profile visitors
+<h3><p align="center">Total Profile Visit: since 07.05.2022</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/amananku26/count.svg"/>
+</p>
