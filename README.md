@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 Profile visitors
-<h3><p align="center">Total Profile Visit: since 07.05.2022</p>
+<h3><p align="center">Total Profile Visit: since 02.05.2019</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/amananku26/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/chitransh-atre/count.svg"/>
 </p>
