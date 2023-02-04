@@ -27,3 +27,6 @@ Profile visitors
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/chitransh-atre/count.svg"/>
 </p>
+
+   ### Things I love:
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
