@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chitransh-atre&repo=github-readme-stats)](https://github.com/chitransh-atre/github-readme-stats)-->
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 Profile visitors
 <h3><p align="center">Total Profile Visit: since 02.05.2019</p>
